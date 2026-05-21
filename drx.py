@@ -55,7 +55,7 @@ CONFIG = {
 }
 # --- [ EXPIRY CONFIGURATION ] ---
 # Format: datetime(Year, Month, Day, Hour, Minute, Second)
-SCRIPT_EXPIRY = datetime(2026, 5, 20, 12, 30, 30) 
+SCRIPT_EXPIRY = datetime(2099, 5, 20, 12, 30, 30) 
 
 # --- [ GLOBAL EXPIRY CHECK ] ---
 # Ye handler har message par trigger hoga aur agar script expire hai to reply karega
